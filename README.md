@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/FUNDATEC-Pagamentos.svg)](http://hits.dwyl.com/learning-crawlers/FUNDATEC-Pagamentos)
+
 # FUNDATEC Folha De Pagamentos
 Extração de dados com Requests para listar pagamentos da FUNDATEC - Fundação Paulistana de Educação, Tecnologia e Cultura da cidade de São Paulo
 
